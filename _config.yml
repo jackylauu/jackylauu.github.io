@@ -1,8 +1,8 @@
-title:            Jaan
-titlehilight:     Altosaar
-tagline:          PhD student at Princeton.
-description:      PhD student at Princeton.
-logo:             jathumb.jpg
+title:            Jacky
+titlehilight:     Lau
+tagline:          UG student at HKUST.
+description:      UG student at HKUST.
+logo:             arthur.png
 #Comment out url when working locally to resolve base urls correctly
 # url: https://jaan.io
 
@@ -11,35 +11,29 @@ logo:             jathumb.jpg
 
 # Owner/author information
 owner:
-  name:           Jaan Altosaar
-#  avatar:         avatar.png
-  bio:            "Estonian-Canadian"
-  email:          jaan@jaan.io
-  twitter:        thejaan
-  github:         altosaar
-#  instagram:      ctrunsthis
-#  dribbble:       coletownsend
-#  disqus:         balzac
-  # Plug in your disqus shortname!
+  name:           Jacky Lau 
+  bio:            "Chinese-Canadian"
+  email:          jzlau@connect.ust.hk
+  github:         jackylauu
   # For Google Authorship https://plus.google.com/authorship
-google_plus: 111852587957033089389 #other
+  # google_plus: 111852587957033089389 #other
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-34129661-2
-google_verify: LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU#LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU
+# google_analytics: UA-34129661-2
+# google_verify: LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU#LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
+# bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
 
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-  - title: Blog
-    url: /blog
-  - title: Projects
-    url: /projects
-  - title: Papers
-    url: /papers
+     - title: About
+       url: /about
+  #   - title: Blog
+  #     url: /blog
+  #   - title: Projects
+  #     url: /projects
+    # - title: Papers
+    # - url: /papers
   # - title: Talks
   #   url: /talks
 
@@ -87,12 +81,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 maruku:
   use_tex:  true
 
-# for clean vector diagrams
-assets:
-  assets:
-    - "*.svg"
-  sources:
-    - _svg
+## for clean vector diagrams
+# assets:
+#   assets:
+#     - "*.svg"
+#   sources:
+#     - _svg
 
 # http://www.rubydoc.info/gems/jekyll-minify-html/1.1.0
 #env: production

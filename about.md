@@ -2,41 +2,32 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I'm excited about improving science (and your life) using machine learning and design.
-tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collective behavior, columbia, physics, computer science, useful science, design, artificial intelligence, intelligent design]
+description: I'm excited about machine learning, web development and many other things .
+tags: [about, computer science, web development, machine learning]
 image:
-  feature: altosaar-workshop.jpg
+  feature: wall4.jpeg
 ---
-I'm a Physics PhD student at Princeton doing research at the intersection of Bayesian inference and deep learning. I am fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/). 
+I'm an undergraduate student at the Hong Kong University of Science and Technology, and I study industrial engineering with a concentration in financial engineering. 
 
-My work is supported by an NSERC Postgraduate Scholarship. In 2015 I had lots of fun doing research with [Andriy Mnih](https://www.cs.toronto.edu/~amnih/) at [DeepMind](http://deepmind.com/), and in 2016 I collaborated with [Eugene Brevdo](https://web.math.princeton.edu/~ebrevdo/) at [Google Brain](https://research.google.com/).
+Previously, I interned at the Hong Kong Observatory, working under the Aviation Weather Services and Forecasting Department, as well at Société Générale under the Risk division where I  had the opportunity to explore the use of machine learning in financial markets.
 
-Find my CV at [jaan.io/cv](https://jaan.io/cv). In short: when it comes to Big Data, I live, breathe, and eat it. Crunchy crispy models are my bread and butter, lunch, and mother.
-
-I'm Estonian-Canadian and graduated from McGill in 2013. Outside of academia, I love volleyball, meditation, [music production](https://soundcloud.com/lyfos), and George Saunders. 
-
-How can we use technology such as machine learning to effect the most societal good? This is what motivates me. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
+Technology is my passion; however, I also love to learn new things in other areas such as history, mathematics, philosophy and economics.
 
 ---
 
 ### Reach!
 
-The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I'm grateful for any positive or negative feedback through [this anonymous form](https://goo.gl/forms/UolGIq1bpHJeK8dJ2). Feel free to connect via:
+The best way to reach me is [jzlau@connect.ust.hk](mailto:jzlau@connect.ust.hk). Here is my [resume]({{site.url}}/resume.pdf), if that's what you're into. Feel free to connect via:
 
 <p style="text-align:center">
-<a href="https://twitter.com/thejaan"><i class="fab fa-twitter"></i>Twitter</a>
-<a href="http://www.linkedin.com/in/jaanaltosaar"><i class="fab fa-linkedin"></i>LinkedIn</a>
-<a href="https://soundcloud.com/lyfos"><i class="fab fa-soundcloud"></i>Soundcloud</a>
-<a href="https://www.flickr.com/photos/thejaan/"><i class="fab fa-flickr"></i>Flickr</a>
-<a href="https://github.com/altosaar"><i class="fab fa-github"></i>GitHub</a>
+<a href="http://www.linkedin.com/"><i class="fab fa-linkedin"></i>LinkedIn</a>
+<a href="https://github.com/jackylauu"><i class="fab fa-github"></i>GitHub</a>
 </p>
 
 
 ---
 
-### Colophon
-
-Hey! Having a 'colophon' doesn't mean I'm a jerk! Just wanted to thank [Cole Townsend](http://coletownsend.com/) for letting me fork his Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io) :)
+This website was forked from [Jaan Altosaar](https://github.com/altosaar/jaan.io) :)
 
 
 

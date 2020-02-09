@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "'Yo!'"
-tags: [jaan altosaar, jaan, physics, phd, princeton, mcgill, gre, physics gre, grad school, columbia]
-description: I'm a Physics PhD student using machine learning to improve science.
+title: "Hello"
+tags: [jacky, engineering, undergrad, HKUST]
+description: I'm an undergraduate student interesting in learning new things.
 ---
