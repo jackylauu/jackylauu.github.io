@@ -1,6 +1,6 @@
 ---
 layout: home
 title: "Hello"
-tags: [jacky, engineering, undergrad, HKUST]
+tags: [Jacky Lau, engineering, undergrad, HKUST, Hong Kong]
 description: I'm an undergraduate student interesting in learning new things.
 ---
