@@ -9,7 +9,7 @@ image:
 ---
 I'm an undergraduate student at the Hong Kong University of Science and Technology, and I study industrial engineering with a concentration in financial engineering. 
 
-Previously, I interned at the Hong Kong Observatory, working under the Aviation Weather Services and Forecasting Department, as well at Société Générale under the Risk division where I  had the opportunity to explore the use of machine learning in financial markets.
+Previously, I interned at the Hong Kong Observatory, working under the Aviation Weather Services and Forecasting Department, as well at Société Générale under the Risk division where I  had the opportunity to explore the use of machine learning in the financial services industry.
 
 Technology is my passion; however, I also love to learn new things in other areas such as history, mathematics, philosophy and classical music.
 
